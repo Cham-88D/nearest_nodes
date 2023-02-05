@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chamod D#/Desktop/New folder (2)/gps/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+algorithm
+-
+

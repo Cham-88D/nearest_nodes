@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\gps.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\gps.dir/objects.a @CMakeFiles\gps.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gps.dir/objects.a -Wl,--no-whole-archive -o gps.exe -Wl,--out-implib,libgps.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gps.dir\linklibs.rsp
